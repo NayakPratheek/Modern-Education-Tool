@@ -1,4 +1,4 @@
-API_KEY = 'AIzaSyCh7lSEAnbl6mGE3YTAd-t4nILaoT2BY5I'
+API_KEY = 'your api key'
 import cv2
 import numpy as np
 from flask import Flask, render_template, Response, jsonify, request
